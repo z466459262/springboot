@@ -1,0 +1,4 @@
+org.springframework.boot.env.EnvironmentPostProcessor=com.zwz.b.properties.PropertiesEnvPostProcessor
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.zwz.d.enable.autoConfiguration.RunnableConfiguration
+org.springframework.context.ApplicationListener=\
+com.zwz.e.event.MyListener2

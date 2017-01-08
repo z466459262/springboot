@@ -1,0 +1,2 @@
+bproperties.classpathproperties.a= classpathproperties.a say hello world
+bproperties.classpathproperties.b= classpathproperties.b say hello world
