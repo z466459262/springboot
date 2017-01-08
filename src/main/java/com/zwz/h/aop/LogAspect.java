@@ -17,7 +17,7 @@ import java.util.Arrays;
 public class LogAspect {
 
     @Before("execution(* com.zwz.h.aop..*.*(..))")
-    public void a(){
+    public void buissnessName(){
 
         System.err.println(" i am doing aspect logic...");
     }
